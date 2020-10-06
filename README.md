@@ -1,1 +1,1 @@
-# The Hadoop & Spark Ecosystem @ DSTI 
+# The Hadoop & Spark Ecosystem  DSTI 
